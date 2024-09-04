@@ -1,4 +1,4 @@
-# Base-Camp-Exercises
+# Base-Learn-Exercises
 A repository of solidity codes developed for Base Learn exercises.
 
 ![image](https://github.com/SobhanMoghimi/Base-Camp-Exercises/blob/main/assets/Base_Learn_Banner.png)
